@@ -45,7 +45,7 @@ export const RecipePage = () => {
           <IngredientsTitle>Ingredients</IngredientsTitle>
           <ul style={{ marginBottom: '20px' }}>
             {ingredients.map(ingredient => (
-              <IngredientItem>{ingredient}</IngredientItem>
+              <IngredientItem key={ingredient}>{ingredient}</IngredientItem>
             ))}
           </ul>
           <Info time={time} calorie={calorie} rating={rating} size={'big'} />
