@@ -1,8 +1,10 @@
-import styled from '@emotion/styled';
+import styled from 'styled-components';
 
-export const Text = styled.h1`
-  font-family: 'Luckiest Guy', cursive;
-  font-size: 35px;
+export const StyledTitle = styled.h2`
+  font-family: 'Sigmar One', cursive;
+  font-size: 3rem;
+
+  margin-bottom: 15px;
+
   text-align: center;
-  margin-bottom: 40px;
 `;

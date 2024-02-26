@@ -1,3 +1,5 @@
-import { Text } from './Title.styled';
+import { StyledTitle } from './Title.styled';
 
-export const Title = ({ children }) => <Text>{children}</Text>;
+const Title = ({ children }) => <StyledTitle>{children}</StyledTitle>;
+
+export default Title;

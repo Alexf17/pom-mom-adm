@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Корм для котів",
+    "products": "food",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Ласощі для котів",
+    "products": "tastes",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Туалети та аксесуари для котів",
+    "products": "toilets",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Наповнювачі для котів",
+    "products": "fillers",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Вітаміни та добавки для котів",
+    "products": "vitamines",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Ветеринарія",
+    "products": "veterinary",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Кігтеточки для котів",
+    "products": "claws",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Амуніція для котів",
+    "products": "ammunition",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Догляд та гігієна для котів",
+    "products": "care",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "М'які місця для котів",
+    "products": "bets",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Іграшки для котів",
+    "products": "toys",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Аксесуари для котів",
+    "products": "accessories",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Посуд для котів",
+    "products": "dishes",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Обладнання для котів",
+    "products": "equipment",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Сумки, перенесення для котів",
+    "products": "bags and boxes",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Спецзасоби для котів",
+    "products": "special equipment",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Одяг для котів",
+    "products": "clothes",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  },
+  {
+    "title": "Сертифікати",
+    "products": "certificates",
+    "parentCategory": {
+      "$oid": "64e14efcb66923a436907db3"
+    },
+    "features": []
+  }
+]
